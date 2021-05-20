@@ -1,0 +1,34 @@
+.gholder {
+    
+}
+
+.gholder svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.map.gholder {
+    width: 100%;
+    height: 300px;
+}
+
+.map.gholder svg {
+
+
+}
+
+.map.gholder svg .a {
+    fill: #ff0;
+}
+
+.map.gholder svg .b {
+    font-size: 60px;
+    fill: red;
+}
+
+.map.gholder svg image {
+    transform:translate(50%, 50%);
+    transform-origin: 50% 50%;
+    transform-box: fill-box;
+}
